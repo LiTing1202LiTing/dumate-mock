@@ -1,0 +1,13 @@
+{
+  "sessionId": "ses_mock_2026_dumate",
+  "status": "completed",
+  "artifacts": [
+    {
+      "id": "R1",
+      "category": "超支超过10%",
+      "item": "迎新晚会",
+      "detail": "预算7100，实际8841，偏差+1741 (+24.5%)",
+      "status": "供人工核实"
+    }
+  ]
+}
